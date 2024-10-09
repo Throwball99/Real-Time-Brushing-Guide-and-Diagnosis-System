@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922967500693",
+    "project_id": "robotjeonguk",
+    "storage_bucket": "robotjeonguk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922967500693:android:45ba7e364a84cd70ce789c",
+        "android_client_info": {
+          "package_name": "com.smartmirror.smartmirror"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCChz812L75_GvuERyhoqgZbH0A4oPih3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922967500693:android:3a5b925ef3c64559ce789c",
+        "android_client_info": {
+          "package_name": "com.smartmirror_renewal.smartmirror_renewal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCChz812L75_GvuERyhoqgZbH0A4oPih3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

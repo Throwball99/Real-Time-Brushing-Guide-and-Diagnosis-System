@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAZFx-gv49bROkzmar9C9EpwxBDlV0c-4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922967500693</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartmirrorrenewal.smartmirrorRenewal</string>
+	<key>PROJECT_ID</key>
+	<string>robotjeonguk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>robotjeonguk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922967500693:ios:740159041d56bc9bce789c</string>
+</dict>
+</plist>
