@@ -1,6 +1,6 @@
 # 작품명 :  실시간 양치 지도 및 진단 시스템[2024 한국공학대전 한국전자기술원 원장상, 2024 TU 캡스톤 디자인 성과 공모전 학부장상]
 
-![상](https://github.com/user-attachments/assets/a814589a-1f74-4904-8524-a350922cf005)
+![1](https://github.com/user-attachments/assets/f6283795-dab7-4430-aa31-8e4844a34b40)
 
 (유튜브 링크 : https://youtu.be/LlAdDym6C94)
 (유튜브 쇼츠 : https://youtube.com/shorts/uun3iu4L6Z4)
@@ -32,6 +32,9 @@
 ## 칫솔 회로도
 ![회로도](https://github.com/user-attachments/assets/0c68472f-d26f-443a-a69b-75f0db8761e3)
 
+## 3D 모델링
+![모델링](https://github.com/user-attachments/assets/1e85b481-4b36-49b1-ac5a-8019dcb18e37)
+
 ## 전용 어플
 ![어플1](https://github.com/user-attachments/assets/52f042be-7e70-4e87-86a5-438b254c902d)
 ![어플2](https://github.com/user-attachments/assets/e957637d-43e5-4b1f-b269-a841ec0cd970)
@@ -39,6 +42,10 @@
 ## 개발환경
 
 ![asdfasdfasdf](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/6dd87b23-9965-4dc2-b8c8-5f65e151b917)
+
+## 수상내역
+![상](https://github.com/user-attachments/assets/a814589a-1f74-4904-8524-a350922cf005)
+![image](https://github.com/user-attachments/assets/41b8c244-f67d-495b-8e8b-19f4d3475771)
 
 ## 팀원
 
