@@ -46,7 +46,8 @@
 
 ## 수상내역
 ![상](https://github.com/user-attachments/assets/a814589a-1f74-4904-8524-a350922cf005)
-![image](https://github.com/user-attachments/assets/41b8c244-f67d-495b-8e8b-19f4d3475771)
+
+![1](https://github.com/user-attachments/assets/6b48e3cc-9d45-40b6-8516-90419f9f59cf)
 
 ## 팀원
 
